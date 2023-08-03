@@ -1,0 +1,27 @@
+{
+	"FileVersion": 1,
+	"Version": 0.2,
+	"VersionName": "1.0.1",
+	"FriendlyName": "XSensRemote",
+	"Description": "XSensRemote can be used to send remote commands to XSens from UE4 ",
+	"Category": "Programming",
+	"CreatedBy": "Ashwin Nagavelli",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "XSensRemote",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
